@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dcomputer%2Brepair%2Bbanner&psig=AOvVaw1DiXP8heqk8_LDz9EP96Nd&ust=1706771838764000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKicotuKh4QDFQAAAAAdAAAAABAS)]
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
