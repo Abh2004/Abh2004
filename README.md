@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/05/97/46/37/1000_F_597463789_8mfyr6Lz8JtbESp5ZYyR2XxFUZg6FyQQ.webp"/>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/cartoon-character-sitting-floor-using-computer_917856-4510.jpg?w=826"/>
 
 - 🌱 I’m currently learning **Next JS**
 
