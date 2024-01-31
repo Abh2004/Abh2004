@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://imgs.search.brave.com/PFTcntVLl56Rp0wy1-iImhRU6sbOvzSFqBI9bVE0CQw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9oYWNr/ZXJub29uLmltZ2l4/Lm5ldC9pbWFnZXMv/aW1nLW9qMzNlcWou/anBlZz9hdXRvPWZv/cm1hdCZmaXQ9bWF4/Jnc9Mzg0MA)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
