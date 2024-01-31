@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/JupdiivI6j1_et-0KtPA54oJ4tG-o1BJEJPGdIoLsEE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by93/b3JraW5nLWNvZGVf/MTA5OC0xOTg1OC5q/cGc_c2l6ZT02MjYm/ZXh0PWpwZw"/>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/futuristic-computer-lab-with-bright-blue-lighting-generated-by-ai_972969-18171.jpg?w=740"/>
 
 - 🌱 I’m currently learning **Next JS**
 
