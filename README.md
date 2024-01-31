@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/3d-render-boy-character-with-glasses-generative-ai_384720-2036.jpg?w=1480)
+[![MasterHead](https://img.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg)]
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
