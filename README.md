@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh Maurya</h1>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/cartoon-character-sitting-floor-using-computer_917856-4510.jpg?w=826"/>
 
 🔭 I'm currently working on Full Stack Development and DevOps.<br>
 👯 I’m looking to collaborate on projects involving frameworks such as Django and React.js as frontend.<br>
