@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh Maurya</h1> <h3 align="center">Software Engineer | Full-Stack Developer | AI & DevOps Enthusiast</h3>
 
-🚀 About Me
-    💡 Passionate about building scalable web applications, AI-driven solutions, and DevOps automation.
-    🔭 Currently working on Full-Stack Development, DevOps, and AI-powered applications.
-    👯 Open to collaborations on Django, FastAPI, Next.js, and AI-based projects.
-    🌱 Currently expanding my expertise in Next.js, Docker, and Cloud Computing.
-    🤝 Always eager to learn and explore DevOps best practices.
-    📫 Reach me at arjunmaurya1920@gmail.com
+🚀 About Me<br>
+    💡 Passionate about building scalable web applications, AI-driven solutions, and DevOps automation. <br>
+    🔭 Currently working on Full-Stack Development, DevOps, and AI-powered applications.<br>
+    👯 Open to collaborations on Django, FastAPI, Next.js, and AI-based projects.<br>
+    🌱 Currently expanding my expertise in Next.js, Docker, and Cloud Computing.<br>
+    🤝 Always eager to learn and explore DevOps best practices.<br>
+    📫 Reach me at arjunmaurya1920@gmail.com<br>
 
 🌍 Connect with Me
 <p align="left"> <a href="https://twitter.com/maurya_sin19032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a> <a href="https://linkedin.com/in/abhishek-singh-maurya-621911217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> </p>
