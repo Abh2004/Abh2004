@@ -3,7 +3,7 @@
 
 🚀 **About Me**  
 💡 Passionate about building intelligent, scalable web and AI solutions with clean DevOps practices.  
-👨‍💻 Co-founder at **[DevDuo](#)** — crafting real-world products, learning tools, and community-focused initiatives.  
+👨‍💻 Co-founder at **[DevDuo](devduo.in)** — crafting real-world products, learning tools, and community-focused initiatives.  
 🔭 Currently working on AI-integrated full-stack systems, cloud-native applications, and scalable backend services.  
 🌱 Expanding my stack with **Next.js**, **Docker**, **Kubernetes**, and **LLM-based agents**.  
 👯 Open to collaboration on impactful **AI/ML**, **Django/FastAPI**, **Next.js**, and **DevOps** projects.  
